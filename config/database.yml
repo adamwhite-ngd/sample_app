@@ -1,8 +1,8 @@
 development:
   adapter: postgresql
   host: localhost
-  username: 
-  password:
+  username: adam
+  password: Ad4mwh1t3
   database: db/development.postgresql
   pool: 5
   timeout: 5000
@@ -13,8 +13,8 @@ development:
 test:
   adapter: postgresql
   host: localhost
-  username:
-  password:
+  username: adam
+  password: Ad4mwh1t3
   database: db/test.postgresql
   pool: 5
   timeout: 5000
@@ -22,8 +22,8 @@ test:
 production:
   adapter: postgresql
   host: localhost
-  username:
-  password:
+  username: adam
+  password: Ad4mwh1t3
   database: db/production.postgresql
   pool: 5
   timeout: 5000
